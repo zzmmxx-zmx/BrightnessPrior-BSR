@@ -1,0 +1,12 @@
+MATLAB release:
+- MATLAB R2024a (Version 24.1.0.2537033)
+
+Operating system:
+- Microsoft Windows 11 Home, Version 10.0 (Build 26200)
+
+Required toolbox:
+- Image Processing Toolbox (R2024a, Version 24.1)
+
+Hardware used for the manuscript experiments:
+- Intel Core i7-12700H CPU
+- 16 GB RAM

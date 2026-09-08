@@ -1,0 +1,11 @@
+# Dataset files
+data/LOL-v1/
+data/demo/*.png
+
+# Generated outputs
+results/lolv1_ablation/
+results/demo_output.png
+
+# MATLAB temporary files
+*.asv
+*.m~
